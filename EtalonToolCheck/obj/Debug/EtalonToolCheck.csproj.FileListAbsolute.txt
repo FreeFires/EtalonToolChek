@@ -1,0 +1,10 @@
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\bin\Debug\EtalonToolCheck.exe.config
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\bin\Debug\EtalonToolCheck.exe
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\bin\Debug\EtalonToolCheck.pdb
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.csprojAssemblyReference.cache
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.Form1.resources
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.Properties.Resources.resources
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.csproj.GenerateResource.cache
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.csproj.CoreCompileInputs.cache
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.exe
+C:\Install\Projects\EtalonToolCheck\EtalonToolCheck\obj\Debug\EtalonToolCheck.pdb

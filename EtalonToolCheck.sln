@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtalonToolCheck", "EtalonToolCheck\EtalonToolCheck.csproj", "{DA10899D-2937-4D20-858D-F761CCE8AB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA10899D-2937-4D20-858D-F761CCE8AB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA10899D-2937-4D20-858D-F761CCE8AB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA10899D-2937-4D20-858D-F761CCE8AB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA10899D-2937-4D20-858D-F761CCE8AB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7921675-420F-4FB9-A056-7BFC8751BD03}
+	EndGlobalSection
+EndGlobal
