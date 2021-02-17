@@ -22,12 +22,12 @@ namespace EtalonToolCheck
 
         private void fswEtaalon_Changed(object sender, System.IO.FileSystemEventArgs e)
         {
-            var etalonFolder = ConfigurationManager.AppSettings.Get("EtalonFolder");
+            var etalonFolder = ConfigurationManager.AppSettings.Get("EtalonFolder\\");
             var zbFolder = ConfigurationManager.AppSettings.Get("ZBFolder");
             try
             {
-                MessageBox.Show("Файли які змінювались " + e.FullPath);
-                File.Copy(etalonFolder + "\\", zbFolder + "\\" + e.FullPath + ".btw", true);
+                MessageBox.Show("Файли які змінювались " + e.Name);
+                File.Copy(etalonFolder, zbFolder + "\\" + e.Name + ".btw", true);
             }
             catch (Exception ex)
             {
